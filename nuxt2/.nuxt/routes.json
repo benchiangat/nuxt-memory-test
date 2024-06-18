@@ -1,0 +1,23 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/pingyu/Desktop/memory-test/test/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_33b3121e"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "/Users/pingyu/Desktop/memory-test/test/pages/test.vue",
+    "chunkName": "pages/test",
+    "_name": "_763b89ed"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/pingyu/Desktop/memory-test/test/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6a0b6f07"
+  }
+]
